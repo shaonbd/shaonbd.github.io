@@ -21464,7 +21464,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.TextBox.prototype.exps.Text,
 	cr.plugins_.TextBox.prototype.cnds.OnTextChanged,
 	cr.plugins_.Button.prototype.acts.SetEnabled,
-	cr.plugins_.Mouse.prototype.cnds.OnAnyClick,
+	cr.plugins_.Touch.prototype.cnds.OnTouchStart,
 	cr.behaviors.Platform.prototype.acts.SetVectorY,
 	cr.plugins_.Sprite.prototype.exps.Y,
 	cr.plugins_.Sprite.prototype.acts.StartAnim,
