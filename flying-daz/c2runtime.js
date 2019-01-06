@@ -30577,8 +30577,9 @@ cr.getObjectRefTable = function () {
 		cr.plugins_.TextBox.prototype.exps.Text,
 		cr.plugins_.AJAX.prototype.acts.Post,
 		cr.plugins_.Text.prototype.acts.SetVisible,
-		cr.plugins_.Sprite.prototype.acts.SetVisible,
 		cr.plugins_.Browser.prototype.acts.GoToURL,
+		cr.plugins_.TextBox.prototype.cnds.OnTextChanged,
+		cr.plugins_.Sprite.prototype.acts.SetVisible,
 		cr.system_object.prototype.acts.Wait
 	];
 };
