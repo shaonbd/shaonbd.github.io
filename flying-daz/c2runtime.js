@@ -30580,7 +30580,6 @@ cr.getObjectRefTable = function () {
 		cr.plugins_.Browser.prototype.acts.GoToURL,
 		cr.plugins_.TextBox.prototype.cnds.OnTextChanged,
 		cr.plugins_.Sprite.prototype.acts.SetVisible,
-		cr.plugins_.Sprite.prototype.acts.SetPos,
 		cr.system_object.prototype.acts.Wait
 	];
 };
