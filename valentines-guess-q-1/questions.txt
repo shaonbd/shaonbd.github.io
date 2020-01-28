@@ -1,0 +1,29 @@
+Oven Capacity:;
+15 Litres;
+20 Litres;
+25 Litres;
+30 Litres;
+20 Litres;
+|
+Power Capacity:;
+550 Watt;
+700 Watt;
+800 Watt;
+900 Watt;
+800 Watt;
+|
+Microwave Oven is used for?;
+Bathing;
+Cooking;
+Testing;
+No Idea;
+Cooking;
+|
+Microwave Oven Invented in?;
+1942;
+1947;
+1945;
+1944;
+1947;
+|
+
