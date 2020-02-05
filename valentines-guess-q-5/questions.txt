@@ -1,0 +1,29 @@
+What's the name of the Brand?;
+Xiaomi;
+Huawei;
+JoyLife;
+Hi-Tech;
+Xiaomi;
+|
+Battery Capacity?;
+170 mAh;
+190 mAh;
+200 mAh;
+290 mAh;
+190 mAh;
+|
+Aerobic exercise increases your?;
+Appetite;
+Eyesight;
+Heart Rate;
+Creativity;
+Heart Rate;
+|
+Percentage of water in your body?;
+15% - 35%;
+35% - 55%;
+55% - 75%;
+75% - 95%;
+55% - 75%;
+|
+
