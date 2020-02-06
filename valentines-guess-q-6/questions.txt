@@ -1,0 +1,29 @@
+What's the name of the Brand?;
+Xiaomi;
+Remax;
+JoyLife;
+Awei;
+Xiaomi;
+|
+What's the Frequency Response?;
+20 HZ ~ 20 KH;
+20 Hz ~ 40 KH;
+35 HZ ~ 20 KH;
+40 HZ ~ 20 KH;
+20 Hz ~ 40 KH;
+|
+What form is Synonymous to Opera?;
+Chorus;
+Ballet;
+Orchestra;
+Firefox;
+Ballet;
+|
+Which Instrument is from BD Origin?;
+Guitar;
+Drums;
+Piano;
+Flute;
+Flute;
+|
+
