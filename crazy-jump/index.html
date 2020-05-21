@@ -6,7 +6,9 @@
 </head>
 <body>
 <script>
-window.location.replace("https://www.daraz.com.bd/wow/i/bd/gaming/darazgames?hybrid%3D1%26wh_rax%3Dtrue%26wx_navbar_transparent%3Dtrue%26hideRMenus%3Dtrue%26titleHidden%3D1%26games%3Dtrue" , '_blank');
+var uri = "https://www.daraz.com.bd/wow/i/bd/gaming/darazgames?hybrid%3D1%26wh_rax%3Dtrue%26wx_navbar_transparent%3Dtrue%26hideRMenus%3Dtrue%26titleHidden%3D1%26games%3Dtrue" ;
+var res = encodeURI(uri);
+window.location.replace(res , '_blank');
 </script>
 	
 </body>
