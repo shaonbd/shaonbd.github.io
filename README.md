@@ -1,0 +1,1 @@
+Some Games I've worked on while working as Web Developer for Daraz Bangladesh LTD. There are variety of 2D Games which helps customer engagement in eCommerce. Most of games here were built using contruct 2. Each game here has dynamic scoreboards which makes the user interactions more challenging.
